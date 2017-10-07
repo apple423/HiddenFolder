@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\file_list.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\file_list.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\identitytoolkit_password_sign_in_page.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\layout\\identitytoolkit_password_sign_in_page.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\activity_folder.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\activity_folder.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\identitytoolkit_password_link_account_page.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\layout\\identitytoolkit_password_link_account_page.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\identitytoolkit_password_sign_up_page.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\layout\\identitytoolkit_password_sign_up_page.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\pindatapage.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\pindatapage.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\identitytoolkit_idp_button.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\layout\\identitytoolkit_idp_button.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\signinpage.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\signinpage.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\identitytoolkit_account_chip_sign_in_page.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\layout\\identitytoolkit_account_chip_sign_in_page.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\signuppage.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\signuppage.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\identitytoolkit_start_sign_in_page.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\layout\\identitytoolkit_start_sign_in_page.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file_manage.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\activity_file_manage.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\image_item.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\image_item.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\identitytoolkit_idp_link_account_page.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\layout\\identitytoolkit_idp_link_account_page.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\face_detect_surface_view.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_hand_2.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\raw\\haarcascade_hand_2.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_hand_1.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\raw\\haarcascade_hand_1.xml"
+    },
+    {
+        "merged": "E:\\D\\FaceRecognitionFinal\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "E:\\D\\FaceRecognitionFinal\\facerecognition\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    }
+]

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    	  android:installLocation="auto"
+          package="com.example.hyeseung.facerecognition"
+          android:versionCode="22"
+          android:versionName="2.2">
+
+    <application
+        android:label="HiddenFolder"
+        android:icon="@drawable/icon_app"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+        android:name="android.support.multidex.MultiDexApplication">
+        <activity
+            android:name="com.example.hyeseung.demo.GitkitDemo"
+            android:label="HiddenFolder"
+            android:launchMode="singleTask">
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- Un-comment the following data tag and replace placeholder. -->
+                <data
+                    android:host="gitkit"
+                    android:scheme="com.googleusercontent.apps.556892416786-fip19jb0oem4uvvi61ajbht10rbatj1l" />
+
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name="com.example.hyeseung.SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.hyeseung.facerecognition.FdActivity"
+                  android:label="HiddenFolder"
+                  android:screenOrientation="landscape"
+                  android:configChanges="keyboardHidden|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.hyeseung.filemanager.FileManageActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.hyeseung.filemanager.FolderActivity"/>
+        <activity android:name="com.example.hyeseung.filemanager.FileListActivity"/>
+        <activity android:name="com.example.hyeseung.filemanager.InfoActivity"/>
+        <activity android:name="com.facebook.FacebookActivity"/>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="identitytoolkit.show_providers"
+            android:value="Google,Facebook" />
+        <meta-data
+            android:name="identitytoolkit.use_google_plus"
+            android:value="false" />
+        <!-- Un-comment the following 3 meta-data tags and replace placeholder with the real value -->
+        <meta-data
+            android:name="identitytoolkit.api_key"
+            android:value="AIzaSyBWWF6YLso5xi46pIl0o2lRB-_sft5etj8" />
+        <meta-data
+            android:name="identitytoolkit.server_client_id"
+            android:value="556892416786-fip19jb0oem4uvvi61ajbht10rbatj1l.apps.googleusercontent.com" />
+        <meta-data
+            android:name="identitytoolkit.server_widget_url"
+            android:value="http://localhost" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/fb_app_id" />
+    </application>
+
+    <supports-screens android:resizeable="true"
+                      android:smallScreens="true"
+                      android:normalScreens="true"
+                      android:largeScreens="true"
+                      android:anyDensity="true" />
+
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="19"/>
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <uses-feature android:name="android.hardware.camera" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.front" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.front.autofocus" android:required="false"/>
+
+</manifest>
